@@ -1,0 +1,6 @@
+box_open——打开宝箱音效
+building——放置建筑音效
+click——点击按钮音效（不包括升级按钮）
+coin——收集金币音效
+levelup——建筑升级音效、升星音效
+mainbg——背景音乐
